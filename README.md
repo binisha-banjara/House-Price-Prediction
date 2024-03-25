@@ -49,11 +49,11 @@ You can install these dependencies using pip.
 
 <img width="959" alt="h1" src="https://github.com/binisha-banjara/House-Price-Prediction/assets/107851119/b102c537-3b42-4056-b9ba-27dd9b1550d4">
 
-<br>
+[//]:
 
 <img width="956" alt="h3" src="https://github.com/binisha-banjara/House-Price-Prediction/assets/107851119/0220c753-71ce-4228-8910-45ffa7747cd7">
 
-<br>
+[//]:
 
 <img width="959" alt="h4" src="https://github.com/binisha-banjara/House-Price-Prediction/assets/107851119/200e95c7-cdcb-42bb-b970-4b252dde9cbc">
 
